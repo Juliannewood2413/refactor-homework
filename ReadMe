@@ -1,0 +1,6 @@
+The main challenge of this homework was to update the elements of the included html and css pages and make them more semantic. 
+There were no changes to the overall look of the website, and all changes focused on the code itself. 
+During this assignment I focused on changing appropriate <div> tags to <section> tags to better differentiate between sections.
+I also checked to make sure the page links were working, and fixed any that were not. 
+In the css file I condensed/combined elements and reduced the overall css code from in the 200s to 139, including comments.
+The url to the working application is https://juliannewood2413.github.io/refactor-homework/#online-reputation-management.
